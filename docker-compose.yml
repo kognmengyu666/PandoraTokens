@@ -10,7 +10,7 @@ services:
       - new=1
       - PT_PORT=8081
       - Pdlport=8181
-      - licid=yxxxxxevjZxxxFg9xxxxxE
+      - licid=YDD_kJm32OwaB4kpA4wecMgE8hJNMY7W54on8711QJQ
       - Tool_path=/tokensTool
     volumes:
       - ./PandoraNextToken:/data
